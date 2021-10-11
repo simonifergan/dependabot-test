@@ -1,0 +1,24 @@
+{
+  "name": "dependabot",
+  "version": "1.0.0",
+  "description": "Testing dependabot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonifergan/dependabot-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonifergan/dependabot-test/issues"
+  },
+  "homepage": "https://github.com/simonifergan/dependabot-test#readme",
+  "dependencies": {
+    "cmake-js": "6.1.0",
+    "ora": "4.0.2"
+  }
+}
