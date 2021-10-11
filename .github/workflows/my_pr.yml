@@ -1,0 +1,9 @@
+name: My PR Check
+on:
+  pull_request
+
+jobs:
+  my-pr-check:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "PR CHECK BY WHO?"
